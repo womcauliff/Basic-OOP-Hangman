@@ -1,0 +1,19 @@
+{
+  "name": "Basic-OOP-Hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "inquirer": "^1.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "contributors": [
+    { "name": "Will McAuliff", "email": "womcauliff@gmail.com", "url": "https://github.com/womcauliff"},
+    { "name": "Ronny Tomasetti", "url": "https://github.com/ronnytomasetti"}
+  ],
+  "license": "ISC"
+}
